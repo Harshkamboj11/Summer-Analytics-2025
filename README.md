@@ -64,6 +64,3 @@ Price = BasePrice \times \left(1 + λ \cdot NormalizedDemand\right)
 > Note: Due to Colab limitations, `push_notebook()` (from Bokeh) does not work. So we simulate real-time with `clear_output(wait=True)`.
 
 ---
-
-## 📊 Folder Structure
-
